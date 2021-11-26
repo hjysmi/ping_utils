@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.lenovo.pingtools",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 4,
+      "versionName": "1.0.5",
+      "outputFile": "pingtools_release-v1.0.5-20211126_1603.apk"
+    }
+  ],
+  "elementType": "File"
+}
